@@ -49,6 +49,6 @@ if(from && to && amount){
     console.log(`The conversion Amount from "${from}" to "${to}" is: ${result}`);
     
 }else{
-    console.log("The Invalid Is Invalid.");
+    console.log("The Amount Is Invalid.");
     
 }
