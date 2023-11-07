@@ -1,4 +1,5 @@
-Student Management System
-This project is a simple console based Student Management System. In this project you will be learning how to add new students, how to generate a 5 digit unique studentID for each student, how to enroll students in the given courses. Also, you will be implementing the following operations enroll, view balance, pay tuition fees, show status, etc. The status will show all the details of the student including name, id, courses enrolled and balance.This is one of the best projects to implement the Object Oriented Programming concepts.
+# Text-Based Adventure-Game in TypeScript and Node.js
 
-Create a GitHub repository for the project and submit its URL in the project submission form.
+This project is not GUI based. It is a console-based game. The video [here](https://www.youtube.com/watch?v=EpB9u4ItOYU&t=1s) shows how to develop the game in Java. You will take the requirements of the game from the video and develop the game in TypeScript and Node.js
+
+Create a GitHub repository for the project and submit its URL in the project submission form. 
